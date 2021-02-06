@@ -21,16 +21,16 @@ For instructions specific to Windows, please see this guide instead: [Instructio
 
 These steps *should* work on any supported Docker platform, but they have been specifically tested on Raspberry Pi OS with Docker already installed.
 
-1. Clone this repository and pull the latest image from [Docker Hub](https://hub.docker.com/r/ericjmarti/inventory-hunter):
+1. Clone this repository and pull the latest image from [Docker Hub](https://hub.docker.com/r/crazyhead90/inventory-hunter):
     ```
     pi@raspberrypi:~
-    $ git clone https://github.com/EricJMarti/inventory-hunter
+    $ git clone https://github.com/crazyhead90/inventory-hunter
 
     pi@raspberrypi:~
     $ cd inventory-hunter
 
     pi@raspberrypi:~/inventory-hunter
-    $ docker pull ericjmarti/inventory-hunter:latest
+    $ docker pull crazyhead90/inventory-hunter:latest
     ```
 
 2. Create your own configuration file based on one of the provided examples:
