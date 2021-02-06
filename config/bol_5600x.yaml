@@ -1,0 +1,6 @@
+---
+refresh_interval: 2 # seconds
+max_price: 350 # dollars/euros/etc
+urls:
+  - https://www.bol.com/nl/p/amd-ryzen-5-5600x-with-wraith-stealth-cooler/9300000013764932/
+...

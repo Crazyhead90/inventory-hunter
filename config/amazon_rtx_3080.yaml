@@ -1,8 +1,15 @@
 ---
+refresh_interval: 2 # seconds
+max_price: 800 # dollars/euros/etc
 urls:
-  - https://www.amazon.com/MSI-RTX-2080-GAMING-TRIO/dp/B07GHXQTGZ # this one is a test
-  - https://www.amazon.com/ASUS-Graphics-DisplayPort-Military-Grade-Certification/dp/B08HH5WF97
-  - https://www.amazon.com/GeForce-Gaming-Graphics-Technology-Backplate/dp/B08NWBG14N
-  - https://www.amazon.com/MSI-GeForce-RTX-3080-10G/dp/B08HR7SV3M
-  - https://www.amazon.com/NVIDIA-GeForce-Graphics-DisplayPort-Bearings/dp/B08NQ78BCN
+ - https://www.amazon.de/-/nl/dp/B08MKSYYZ4/
+ - https://www.amazon.de/-/nl/dp/B08HM4V2DH/
+ - https://www.amazon.de/-/nl/dp/B08LTKLG5K/
+ - https://www.amazon.de/-/nl/dp/B08HM4M621/
+ - https://www.amazon.de/-/nl/dp/B08T7BRWQ9/
+ - https://www.amazon.de/-/nl/dp/B08T79PFR3/
+ - https://www.amazon.de/-/nl/dp/B08T77ZP44/
+ - https://www.amazon.de/-/nl/dp/B08T7CDS7H/
+ - 
+
 ...

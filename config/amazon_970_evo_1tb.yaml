@@ -1,0 +1,13 @@
+---
+refresh_interval: 2 # seconds
+max_price: 105 # dollars/euros/etc
+urls:
+  - https://www.amazon.nl/Samsung-Intern-Solid-State-Drive/dp/B07CGJNLBB/
+  - https://www.amazon.nl/Samsung-Interne-State-Schijf-NVMe-Interface-V-NAND-technologie/dp/B07BN217QG/
+  - https://www.amazon.de/-/nl/dp/B07CGJNLBB/
+  - https://www.amazon.de/-/nl/dp/B07BN217QG/
+  - https://www.amazon.nl/Samsung-Intern-Solid-State-Drive/dp/B07MBQPQ62/
+  - https://www.amazon.de/-/nl/dp/B07MBQPQ62/
+  - https://www.amazon.de/-/nl/dp/B07MFZY2F2/
+  - https://www.amazon.de/-/nl/dp/B07ND9KHKY/
+...
