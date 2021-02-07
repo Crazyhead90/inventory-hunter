@@ -1,6 +1,7 @@
 import scraper.adorama                                                                                                                                                                                      
 import scraper.amazon
 import scraper.bestbuy
+import scraper.bol
 import scraper.bhphotovideo
 import scraper.canadacomputers
 import scraper.costco
