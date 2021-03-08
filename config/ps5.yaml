@@ -1,6 +1,15 @@
 ---
-refresh_interval: 2 # seconds
+refresh_interval: 1 # seconds
 max_price: 600 # dollars
 urls:
   - https://www.bol.com/nl/p/sony-playstation-5-console/9300000004162282/
+  - https://www.amazon.de/-/nl/dp/B08VLX84G6/
+  - https://www.amazon.de/-/nl/dp/B08JDL3KFS/
+  - https://www.amazon.de/-/nl/dp/B08XYC9YTW/
+  - https://www.amazon.de/-/nl/dp/B08XZZ9S64/
+  - https://www.amazon.de/-/nl/gp/product/B08XZZ9S64/
+  - https://www.amazon.de/-/nl/gp/product/B08XZZ9S64/
+  - https://www.amazon.nl/dp/B08LLZ2CWD/
+  - https://www.amazon.nl/dp/B08H98GVK8/
+  - https://www.amazon.nl/dp/B08H93ZRK9/
 ...

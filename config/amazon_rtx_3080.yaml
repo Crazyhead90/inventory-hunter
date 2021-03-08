@@ -1,15 +1,109 @@
 ---
-refresh_interval: 2 # seconds
-max_price: 800 # dollars/euros/etc
+refresh_interval: 1 # seconds
 urls:
  - https://www.amazon.de/-/nl/dp/B08MKSYYZ4/
  - https://www.amazon.de/-/nl/dp/B08HM4V2DH/
  - https://www.amazon.de/-/nl/dp/B08LTKLG5K/
  - https://www.amazon.de/-/nl/dp/B08HM4M621/
- - https://www.amazon.de/-/nl/dp/B08T7BRWQ9/
- - https://www.amazon.de/-/nl/dp/B08T79PFR3/
- - https://www.amazon.de/-/nl/dp/B08T77ZP44/
- - https://www.amazon.de/-/nl/dp/B08T7CDS7H/
- - 
-
+ - https://www.amazon.de/-/nl/dp/B08HHZVZ3N/
+ - https://www.amazon.de/-/nl/dp/B08M5ZFNTT/
+ - https://www.amazon.de/-/nl/dp/B08K3PDL9K/
+ - https://www.amazon.de/-/nl/dp/B08HH1BMQQ/
+ - https://www.amazon.de/-/nl/dp/B08JCKYYL8/
+ - https://www.amazon.de/-/nl/dp/B08HHDP9DW/
+ - https://www.amazon.de/-/nl/dp/B08JCVWTQY/
+ - https://www.amazon.de/-/nl/dp/B08HN6KYS3/
+ - https://www.amazon.de/-/nl/dp/B08NCBMZ71/
+ - https://www.amazon.de/-/nl/dp/B08HJS2JLJ/
+ - https://www.amazon.de/-/nl/dp/B08KGZVKXM/
+ - https://www.amazon.de/-/nl/dp/B08HM4V2DH/
+ - https://www.amazon.de/-/nl/dp/B08HN4DSTC/
+ - https://www.amazon.de/-/nl/dp/B08HGLN78Q/
+ - https://www.amazon.de/-/nl/dp/B08LTKLG5K/
+ - https://www.amazon.de/-/nl/dp/B08PC6N5LB/
+ - https://www.amazon.de/-/nl/dp/B08KGVL9JQ/
+ - https://www.amazon.de/-/nl/dp/B08HN37VQK/
+ - https://www.amazon.de/-/nl/dp/B08NQ78BCN/
+ - https://www.amazon.de/-/nl/dp/B08VDXBZG1/
+ - https://www.amazon.de/-/nl/dp/B08QZR8S24/
+ - https://www.amazon.de/-/nl/dp/B08SMN1X6L/
+ - https://www.amazon.de/-/nl/dp/B08BL4QX75/
+ - https://www.amazon.de/-/nl/dp/B08HN7VVLJ/
+ - https://www.amazon.de/-/nl/dp/B08HR55YB5/
+ - https://www.amazon.de/-/nl/dp/B08KHLDS72/
+ - https://www.amazon.de/-/nl/dp/B08HBR7QBM/
+ - https://www.amazon.de/-/nl/dp/B08MKGK31R/
+ - https://www.amazon.de/-/nl/dp/B08J6F174Z/
+ - https://www.amazon.de/-/nl/dp/B08HR1NPPQ/
+ - https://www.amazon.de/-/nl/dp/B08JF9VD3N/
+ - https://www.amazon.de/-/nl/dp/B08HJNKT3P/
+ - https://www.amazon.de/-/nl/dp/B08JD6QPXD/
+ - https://www.amazon.de/-/nl/dp/B08HJ9XFNM/
+ - https://www.amazon.de/-/nl/dp/B08JFJFL9J/
+ - https://www.amazon.de/-/nl/dp/B08HR6FMF3/
+ - https://www.amazon.de/-/nl/dp/B08HR7SV3M/
+ - https://www.amazon.de/-/nl/dp/B08HGBYWQ6/
+ - https://www.amazon.de/-/nl/dp/B08HH5WF97/
+ - https://www.amazon.de/-/nl/dp/B08BL495XS/
+ - https://www.amazon.de/-/nl/dp/B08QW8BKDV/
+ - https://www.amazon.de/-/nl/dp/B08HBTJMLJ/
+ - https://www.amazon.de/-/nl/dp/B08HJTH61J/
+ - https://www.amazon.de/-/nl/dp/B08HR3Y5GQ/
+ - https://www.amazon.de/-/nl/dp/B08HR4RJ3Q/
+ - https://www.amazon.de/-/nl/dp/B08HGYXP4C/
+ - https://www.amazon.de/-/nl/dp/B08HR5SXPS/
+ - https://www.amazon.de/-/nl/dp/B08MKSYYZ4/
+ - https://www.amazon.de/-/nl/dp/B08KFGS91R/
+ - https://www.amazon.de/-/nl/dp/B08KJ3VKLQ/
+ - https://www.amazon.de/-/nl/dp/B08HVV2P4Z/
+ - https://www.amazon.de/-/nl/dp/B08KH7RL89/
+ - https://www.amazon.nl/dp/B08LTKLG5K/
+ - https://www.amazon.nl/EVGA-GeForce-GAMING-10G-P5-3881-KR-koeling/dp/B08HH1BMQQ/
+ - https://www.amazon.nl/Gaming-grafische-Gddr6X-pixels-Express/dp/B08HM4V2DH/
+ - https://www.amazon.nl/Gigabyte-AORUS-GeForce-MASTER-grafische/dp/B08KHLDS72/
+ - https://www.amazon.nl/ASUS-grafische-betrouwbaarheid-prestaties-TUF-RTX3080-10G-GAMING/dp/B08HN37VQK/
+ - https://www.amazon.nl/ASUS-grafische-DisplayPort-ventilator-kogellagers/dp/B08HN4DSTC/
+ - https://www.amazon.nl/PNY-GeForce-Gaming-EPIC-X-Grafische/dp/B08HBR7QBM/
+ - https://www.amazon.nl/Geforce-RTX-3080-grafische-kaart/dp/B08HR1NPPQ/
+ - https://www.amazon.nl/PNY-GeForce-Gaming-UPRISING-grafische/dp/B08HBTJMLJ/
+ - https://www.amazon.nl/EVGA-GeForce-10G-P5-3883-KR-koeling-achterplaat/dp/B08HGLN78Q/
+ - https://www.amazon.nl/Gigabyte-GeForce-grafische-GV-N3080GAMING-OC-10GD/dp/B08HLZXHZY/
+ - https://www.amazon.nl/EVGA-GeForce-10G-P5-3885-KR-koeling-achterplaat/dp/B08HJ9XFNM/
+ - https://www.amazon.nl/GIGABYTE-grafische-GV-N3080AORUS-M-10GD-videokaart/dp/B08KJ3VKLQ/
+ - https://www.amazon.nl/Gigabyte-GeForce-XTREME-WATERFORCE-NVIDIA/dp/B08P5W32PC/
+ - https://www.amazon.nl/GIGABYTE-grafische-GV-N3080EAGLE-OC-10GD-videokaart/dp/B08HJS2JLJ/
+ - https://www.amazon.nl/Gigabyte-GeForce-VISION-grafische-kaart/dp/B08KH7RL89/
+ - https://www.amazon.nl/ASUS-ROG-STRIX-RTX3080-10G-GAMING-Grafische-ROG-STRIX-RTX3080-10G-Gaming/dp/B08HN7VVLJ/
+ - https://www.amazon.nl/EVGA-GeForce-10G-P5-3895-KR-technologie-backplate/dp/B08HGBYWQ6/
+ - https://www.amazon.nl/VENTUS-grafische-GDDR6X-7680x4320-Express/dp/B08HM4M621/
+ - https://www.amazon.nl/GIGABYTE-WATERFORCE-koelsysteem-GV-N3080AORUSX-videokaart/dp/B083GSKZSW/
+ - https://www.amazon.nl/Gigabyte-GeForce-EAGLE-grafische-kaart/dp/B08NW528S1/
+ - https://www.amazon.nl/EVGA-10G-P5-3883-KR-GeForce-Koeling-Backplate/dp/B08HR4RJ3Q/
+ - https://www.amazon.nl/GeForce-Trinity-GDDR6X-grafische-ZT-A30800J-10P/dp/B08K3PDL9K/
+ - https://www.amazon.nl/ZOTAC-GeForce-3080-Extreme-HOLO/dp/B08KFGS91R/
+ - https://www.amazon.nl/ASUS-grafische-DisplayPort-kogelventilatorlagers-certificering/dp/B08HH5WF97/
+ - https://www.amazon.nl/GIGABYTE-grafische-WINDFORCE-GV-N3080EAGLE-10GD-videokaart/dp/B083GT83DW/
+ - https://www.amazon.nl/GIGABYTE-WATERFORCE-koelsysteem-GV-N3090AORUSX-videokaart/dp/B08R5J94WP/
+ - https://www.amazon.nl/Gigabyte-GeForce-Xtreme-GDDR6X-grafische/dp/B08M5ZFNTT/
+ - https://www.amazon.nl/Gigabyte-GeForce-EAGLE-GDDR6X-grafische/dp/B08HHZVZ3N/
+ - https://www.amazon.nl/Gaming-GeForce-320-bits-Architectuur-grafische/dp/B08HR5SXPS/
+ - https://www.amazon.nl/GeForce-GDDR6X-grafische-DisplayPort-tech-ventilator/dp/B08BL4QX75/
+ - https://www.amazon.nl/ASUS-grafische-DisplayPort-Axial-tech-2-9-sleuf/dp/B08J6F174Z/
+ - https://www.amazon.nl/ASUS-grafische-DisplayPort-kogelventilatorlagers-certificering/dp/B08HHDP9DW/
+ - https://www.amazon.nl/EVGA-10G-P5-3881-KR-GeForce-GAMING-Koeling/dp/B08HR6FMF3/
+ - https://www.amazon.nl/INNO3D-RTX-3080-iCHILL-X3/dp/B08JF9VD3N/
+ - https://www.amazon.nl/INNO3D-GeForce-RTX-3080-Twin/dp/B08JD6QPXD/
+ - https://www.amazon.nl/EVGA-GeForce-10G-P5-3897-KR-Technologie-Backplate/dp/B08HGYXP4C/
+ - https://www.amazon.nl/GeForce-grafische-DisplayPort-axiaal-tech-ventilator/dp/B08BL495XS/
+ - https://www.amazon.nl/INNO3D-RTX-3080-iCHILL-X4/dp/B08JFJFL9J/
+ - https://www.amazon.nl/ZOTAC-grafische-Geavanceerde-RGB-verlichting-ZT-A30800J-10P/dp/B08HVV2P4Z/
+ - https://www.amazon.nl/GIGABYTE-grafische-GV-N3080GAMING-OC-10GD-videokaart/dp/B08HJTH61J/
+ - https://www.amazon.nl/xiaoxioaguo-MASTER-carving-grafische-LCD-scherm/dp/B08THDGYPV/
+ - https://www.amazon.nl/ZOTAC-GeForce-RTX-3080-Holo/dp/B08KGVL9JQ/
+ - https://www.amazon.nl/Palit-GeForce-GameRock-grafische-DisplayPort/dp/B08QZR8S24/
+ - https://www.amazon.nl/Palit-GeForce-GameRock-grafische-DisplayPort/dp/B08MKSYYZ4/
+ - https://www.amazon.nl/Gigabyte-GeForce-EAGLE-grafische-kaart/dp/B08MKGK31R/
+ - https://www.amazon.nl/Palit-GamingPro-Ray-Tracing-DisplayPort-Geavanceerde/dp/B08JCVWTQY/
+ - https://www.amazon.nl/EVGA-10G-P5-3897-KR-GeForce-technologie-backplate/dp/B08HR3Y5GQ/
+ - https://www.amazon.nl/GeForce-320-bits-Tri-Frozr-Architectuur-grafische/dp/B08HR7SV3M/
 ...
