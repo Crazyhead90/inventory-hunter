@@ -5,9 +5,9 @@ import scraper.bestbuy
 import scraper.bhphotovideo
 import scraper.bol
 import scraper.canadacomputers
+import scraper.coolblue
 import scraper.costco
 import scraper.ebgames
-import scraper.euevga
 import scraper.gamestop
 import scraper.microcenter
 import scraper.mikescomputershop
