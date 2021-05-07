@@ -11,7 +11,7 @@ usage() {
     exit 1
 }
 
-default_image="ericjmarti/inventory-hunter:latest"
+default_image="crazyhead90/inventory-hunter:latest"
 image=$default_image
 
 while getopts i: arg
