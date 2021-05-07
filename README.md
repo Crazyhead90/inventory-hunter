@@ -21,16 +21,16 @@ For instructions specific to Windows, please see this guide instead: [Instructio
 
 These steps *should* work on any supported Docker platform, but they have been specifically tested on Raspberry Pi OS with Docker already installed.
 
-1. Clone this repository and pull the latest image from [Docker Hub](https://hub.docker.com/r/crazyhead90/inventory-hunter):
+1. Clone this repository and pull the latest image from [Docker Hub](https://hub.docker.com/r/ericjmarti/inventory-hunter):
     ```
     pi@raspberrypi:~
-    $ git clone https://github.com/crazyhead90/inventory-hunter
+    $ git clone https://github.com/EricJMarti/inventory-hunter
 
     pi@raspberrypi:~
     $ cd inventory-hunter
 
     pi@raspberrypi:~/inventory-hunter
-    $ docker pull crazyhead90/inventory-hunter:latest
+    $ docker pull ericjmarti/inventory-hunter:latest
     ```
 
 2. Create your own configuration file based on one of the provided examples:
@@ -109,6 +109,11 @@ If you are interested in configuring multiple alerters or would like to keep you
           - myfriendsemail@email.com
         relay: 127.0.0.1
         password: XXXXXXXXXX   # optional
+      slack:
+        webhook_url: https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX
+        mentions:
+          - XXXXXXXXXXXXXXX
+          - XXXXXXXXXXXXXXX
     ...
     ```
 
@@ -135,7 +140,7 @@ Before developing inventory-hunter, I used several existing services without any
 
 ### What if inventory-hunter gets used by scalpers?
 
-I sure hope this doesn't happen... 2020 is bad enough already. My hope is that inventory-hunter levels the playing field a bit by giving real customers a better opportunity than they had previously. Serious scalpers will continue using automated checkout bots, and it is up to online retailers to combat this malarkey.
+I sure hope this doesn't happen... 2020 and 2021 are bad enough already. My hope is that inventory-hunter levels the playing field a bit by giving real customers a better opportunity than they had previously. Serious scalpers will continue using automated checkout bots, and it is up to online retailers to combat this malarkey.
 
 ### Do I really need Docker?
 

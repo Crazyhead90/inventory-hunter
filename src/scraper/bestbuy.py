@@ -1,3 +1,6 @@
+import os
+
+
 from scraper.common import ScrapeResult, Scraper, ScraperFactory
 
 
@@ -36,7 +39,7 @@ class BestBuyScraper(Scraper):
 
     @staticmethod
     def get_driver_type():
-        return 'selenium'
+        return 'lean_and_mean'
 
     @staticmethod
     def get_result_type():

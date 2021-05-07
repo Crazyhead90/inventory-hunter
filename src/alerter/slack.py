@@ -10,6 +10,9 @@ class SlackAlerter(Alerter):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.webhook_url = kwargs.get('webhook_url')
+        self.mentions = kwargs.get('mentions', '')
+        if self.mentions:
+            self.mentions = ' '.join([f'<@{m}>' for m in self.mentions])
 
     @classmethod
     def from_args(cls, args):
@@ -19,7 +22,8 @@ class SlackAlerter(Alerter):
     @classmethod
     def from_config(cls, config):
         webhook_url = config['webhook_url']
-        return cls(webhook_url=webhook_url)
+        mentions = config['mentions'] if 'mentions' in config else ''
+        return cls(webhook_url=webhook_url, mentions=mentions)
 
     @staticmethod
     def get_alerter_type():
@@ -44,13 +48,25 @@ class SlackAlerter(Alerter):
                 }
             ]
         }
+
+        if self.mentions:
+            blocks = _slack_webhook_generated["blocks"]
+            mentions = {
+                "type": "section",
+                "text": {
+                        "type": "mrkdwn",
+                        "text": self.mentions
+                }
+            }
+            blocks.append(mentions)
+
         try:
             logging.debug(f"Slack Webhook URL: {self.webhook_url}")
             send_request = requests.post(
                 self.webhook_url,
                 json=_slack_webhook_generated,
             )
-            if send_request.status_code != 200 and send_request.text == "ok":
+            if send_request.status_code != 200:
                 logging.error(
                     f"There was an issue sending to slack due to an invalid request: {send_request.status_code} -> {send_request.text}"
                 )
