@@ -23,7 +23,7 @@ class CoolblueScrapeResult(ScrapeResult):
             self.logger.warning(f'missing price: {self.url}')
 
         # check for add to cart button
-        tag = self.soup.body.find('div', class_='section--5@md')
+        tag = self.soup.body.find('span', class_='js-add-to-cart-button-overlay-selector')
         if tag:
             self.alert_subject = alert_subject
             self.alert_content = f'{alert_content.strip()}\n{self.url}'
