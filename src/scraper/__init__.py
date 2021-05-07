@@ -3,6 +3,7 @@ import scraper.amazon
 import scraper.amd
 import scraper.bestbuy
 import scraper.bhphotovideo
+import scraper.bol
 import scraper.canadacomputers
 import scraper.costco
 import scraper.ebgames
