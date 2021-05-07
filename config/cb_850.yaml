@@ -1,0 +1,21 @@
+---
+refresh_interval: 2 # seconds
+max_price: 850 # dollars
+urls:
+ - https://www.coolblue.nl/product/868732/asus-geforce-rtx-3080-rog-strix-gaming-10g.html
+ - https://www.coolblue.nl/product/868726/asus-geforce-rtx-3080-tuf-gaming-10g.html
+ - https://www.coolblue.nl/product/868737/gigabyte-geforce-rtx-3080-eagle-oc-10g.html
+ - https://www.coolblue.nl/product/868741/msi-geforce-rtx-3080-ventus-3x-oc-10g.html
+ - https://www.coolblue.nl/product/871939/pny-geforce-rtx-3080-10gb-xlr8-gaming-uprising-epic-x-rgb-triple-fan-edition.html
+ - https://www.coolblue.nl/product/871940/pny-geforce-rtx-3080-10gb-xlr8-gaming-revel-epic-x-rgb-triple-fan-edition.html
+ - https://www.coolblue.nl/product/868731/asus-geforce-rtx-3080-rog-strix-gaming-oc-10g.html
+ - https://www.coolblue.nl/product/868736/gigabyte-geforce-rtx-3080-gaming-oc-10g.html
+ - https://www.coolblue.nl/product/868733/asus-geforce-rtx-3080-tuf-gaming-oc-10g.html
+ - https://www.coolblue.nl/product/875168/gigabyte-aorus-geforce-rtx-3080-master-10g.html
+ - https://www.coolblue.nl/product/872465/gigabyte-geforce-rtx-3080-vision-oc-10g.html
+ - https://www.coolblue.nl/product/875073/msi-geforce-rtx-3080-suprim-x-10g.html
+ - https://www.coolblue.nl/product/868740/msi-geforce-rtx-3080-gaming-x-trio-10g.html
+ - https://www.coolblue.nl/product/875496/gigabyte-aorus-geforce-rtx-3080-xtreme-10g.html
+ - https://www.coolblue.nl/product/873532/gigabyte-radeon-rx-6800-xt-16g.html
+ - https://www.coolblue.nl/product/875214/msi-radeon-rx-6800-xt-gaming-x-trio-16g.html
+...

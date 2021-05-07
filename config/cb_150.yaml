@@ -1,0 +1,14 @@
+---
+refresh_interval: 2 # seconds
+max_price: 150 # dollars
+urls:
+ - https://www.coolblue.nl/product/871739/wd-black-sn850-2tb-nvme-met-heatsink.html
+ - https://www.coolblue.nl/product/835383/wd-black-2tb-sn750-plus-heatsink.html
+ - https://www.coolblue.nl/product/871736/wd-black-sn850-2tb-nvme-zonder-heatsink.html
+ - https://www.coolblue.nl/product/862364/crucial-ballistix-max-32gb-ddr4-dimm-4000-mhz-2x16gb.html
+ - https://www.coolblue.nl/product/862366/crucial-ballistix-max-32gb-ddr4-dimm-4400-mhz-2x16gb.html
+ - https://www.coolblue.nl/product/828139/corsair-dominator-platinum-rgb-32gb-ddr4-dimm-3200-mhz-2x16gb.html
+ - https://www.coolblue.nl/product/881390/pny-desktop-memory-xlr8-32gb-ddr4-dimm-3200mhz-cl16-2x16gb.html
+ - https://www.coolblue.nl/product/870907/hyperx-32gb-3200mhz-ddr4-cl16-dimm-kit-of-2-1rx8-hyperx-fury-black.html
+ - https://www.coolblue.nl/product/870910/hyperx-32gb-1x-32-gb-3200mhz-ddr4-cl16-dimm-hyperx-fury-black.html
+...

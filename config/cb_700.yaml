@@ -1,0 +1,21 @@
+---
+refresh_interval: 2 # seconds
+max_price: 700 # dollars
+urls:
+ - https://www.coolblue.nl/product/872225/gigabyte-geforce-rtx-3070-eagle-8g.html
+ - https://www.coolblue.nl/product/873903/asus-tuf-gaming-geforce-rtx-3070-8g.html
+ - https://www.coolblue.nl/product/872237/asus-geforce-rtx-3070-rog-strix-gaming-8g.html
+ - https://www.coolblue.nl/product/872098/gigabyte-geforce-rtx-3070-eagle-oc-8g.html
+ - https://www.coolblue.nl/product/871937/pny-geforce-rtx-3070-8gb-uprising-dual-fan.html
+ - https://www.coolblue.nl/product/872144/msi-geforce-rtx-3070-ventus-2x-oc.html
+ - https://www.coolblue.nl/product/871938/pny-geforce-rtx-3070-8gb-xlr8-gaming-revel-epic-x-rgb-triple.html
+ - https://www.coolblue.nl/product/872229/asus-geforce-rtx-3070-rog-strix-gaming-oc-8g.html
+ - https://www.coolblue.nl/product/872224/gigabyte-geforce-rtx-3070-vision-oc-8g.html
+ - https://www.coolblue.nl/product/872240/asus-geforce-rtx-3070-dual-8g.html
+ - https://www.coolblue.nl/product/872145/msi-geforce-rtx-3070-ventus-3x-oc.html
+ - https://www.coolblue.nl/product/873536/asus-tuf-gaming-geforce-rtx-3070-o8g.html
+ - https://www.coolblue.nl/product/872097/gigabyte-geforce-rtx-3070-gaming-oc-8g.html
+ - https://www.coolblue.nl/product/872143/msi-geforce-rtx-3070-gaming-x-trio.html
+ - https://www.coolblue.nl/product/874468/msi-geforce-rtx-3070-suprim-x-8g.html
+ - https://www.coolblue.nl/product/872223/gigabyte-aorus-geforce-rtx-3070-master-8g.html
+...

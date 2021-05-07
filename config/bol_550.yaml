@@ -1,0 +1,6 @@
+---
+refresh_interval: 2 # seconds
+max_price: 550 # dollars/euros/etc
+urls:
+  - https://www.bol.com/nl/p/gigabyte-aorus-geforce-rtx-3060-elite-12g-videokaart-12-gb-gddr6-pcie-4-0-x16-2x-hdmi-2-1-2x-displayport-1-4a/9300000030496313/
+...

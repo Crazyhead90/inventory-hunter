@@ -1,0 +1,20 @@
+---
+refresh_interval: 2 # seconds
+max_price: 550 # dollars
+urls:
+ - https://www.coolblue.nl/product/873764/msi-geforce-rtx-3060-ti-ventus-2x-oc.html
+ - https://www.coolblue.nl/product/875497/gigabyte-aorus-geforce-rtx-3060-ti-master-8g.html
+ - https://www.coolblue.nl/product/879759/pny-geforce-rtx-3060-12gb-xlr8-gaming-revel-epic-x-rgb-single-fan.html
+ - https://www.coolblue.nl/product/875085/msi-geforce-rtx-3060-ti-ventus-3x-oc.html
+ - https://www.coolblue.nl/product/875171/gigabyte-geforce-rtx-3060-ti-gaming-oc-8g.html
+ - https://www.coolblue.nl/product/875169/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8g.html
+ - https://www.coolblue.nl/product/881167/msi-geforce-rtx-3060-ventus-2x-12g.html
+ - https://www.coolblue.nl/product/881168/msi-geforce-rtx-3060-ventus-2x-12g-oc.html
+ - https://www.coolblue.nl/product/879304/msi-geforce-rtx-3060-gaming-x-12g.html
+ - https://www.coolblue.nl/product/881169/msi-geforce-rtx-3060-ventus-3x-12g-oc.html
+ - https://www.coolblue.nl/product/880742/pny-geforce-rtx-3060-12gb-xlr8-gaming-revel-epic-x-rgb-dual-fan-edition.html
+ - https://www.coolblue.nl/product/881170/msi-geforce-rtx-3060-gaming-x-trio-12g.html
+ - https://www.coolblue.nl/product/873763/msi-geforce-rtx-3060-ti-gaming-x-trio.html
+ - https://www.coolblue.nl/product/875503/gigabyte-geforce-rtx-3060-ti-eagle-8g.html
+ - https://www.coolblue.nl/product/875500/gigabyte-geforce-rtx-3060-ti-eagle-8g.html
+...

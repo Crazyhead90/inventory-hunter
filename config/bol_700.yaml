@@ -1,0 +1,13 @@
+---
+refresh_interval: 2 # seconds
+max_price: 700 # dollars/euros/etc
+urls:
+  - https://www.bol.com/nl/p/aorus-geforce-rtx-3070-master-8g/9300000019845577/
+  - https://www.bol.com/nl/p/palit-ne63070019p2-1041a-videokaart-nvidia-geforce-rtx-3070-8-gb-gddr6/9300000013835044/
+  - https://www.bol.com/nl/p/palit-geforce-rtx-3070-jetstream-8gb-gddr6-videokaart/9300000034434711/
+  - https://www.bol.com/nl/p/inno3d-geforce-rtx-3070-ichill-x4-8gb-gddr6-videokaart/9300000035269076/
+  - https://www.bol.com/nl/p/palit-ne63070s19p2-1041a-videokaart-nvidia-geforce-rtx-3070-8-gb-gddr6/9300000013835097/
+  - https://www.bol.com/nl/p/rtx-3070-8gb-gigabyte-gv-n3070eagle-oc-8gd/9300000013301214/
+  - https://www.bol.com/nl/p/inno3d-geforce-rtx-3070-twin-x2-oc-videokaart/9300000035269077/
+  - 
+...

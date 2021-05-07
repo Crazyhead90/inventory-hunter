@@ -1,0 +1,21 @@
+---
+refresh_interval: 2 # seconds
+max_price: 1600 # dollars
+urls:
+ - https://www.coolblue.nl/product/868735/gigabyte-geforce-rtx-3090-eagle-oc-24g.html
+ - https://www.coolblue.nl/product/868739/msi-geforce-rtx-3090-ventus-3x-24g-oc.html
+ - https://www.coolblue.nl/product/875492/gigabyte-geforce-rtx-3090-turbo-24g.html
+ - https://www.coolblue.nl/product/868729/asus-geforce-rtx-3090-rog-strix-gaming-24g.html
+ - https://www.coolblue.nl/product/868728/asus-geforce-rtx-3090-rog-strix-gaming-oc-24g.html
+ - https://www.coolblue.nl/product/868727/asus-geforce-rtx-3090-tuf-gaming-24g.html
+ - https://www.coolblue.nl/product/871942/pny-geforce-rtx-3090-24gb-xlr8-gaming-revel-epic-x-rgb-triple-fan-edition.html
+ - https://www.coolblue.nl/product/871941/pny-geforce-rtx-3090-24gb-xlr8-gaming-uprising-epic-x-rgb-triple-fan-edition.html
+ - https://www.coolblue.nl/product/868734/gigabyte-geforce-rtx-3090-gaming-oc-24g.html
+ - https://www.coolblue.nl/product/872096/gigabyte-geforce-rtx-3090-vision-oc-24g.html
+ - https://www.coolblue.nl/product/868730/asus-geforce-rtx-3090-tuf-gaming-oc-24g.html
+ - https://www.coolblue.nl/product/868738/msi-geforce-rtx-3090-gaming-x-trio-24g.html
+ - https://www.coolblue.nl/product/875167/gigabyte-aorus-geforce-rtx-3090-master-24g.html
+ - https://www.coolblue.nl/product/875082/msi-geforce-rtx-3090-suprim-x-24g.html
+ - https://www.coolblue.nl/product/873268/gigabyte-aorus-geforce-rtx-3090-xtreme-24g.html
+ - https://www.coolblue.nl/product/881172/msi-radeon-rx-6900-xt-gaming-x-trio-16g.html
+...

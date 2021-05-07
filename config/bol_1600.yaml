@@ -1,0 +1,8 @@
+---
+refresh_interval: 2 # seconds
+max_price: 1600 # dollars/euros/etc
+urls:
+  - https://www.bol.com/nl/p/rx-6900xt-16gb-asrock-phantom-gaming/9300000024321251/
+  - https://www.bol.com/nl/p/rtx-3090-24gb-zotac-trinity-oc/9300000021943578/
+  - https://www.bol.com/nl/p/gigabyte-gv-n3090gaming-oc-24gd-videokaart-nvidia-geforce-rtx-3090-24-gb-gddr6x/9300000011432223/
+...
